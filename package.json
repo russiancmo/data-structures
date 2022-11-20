@@ -1,0 +1,13 @@
+{
+  "name": "data-structures",
+  "source": "./src/app.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "author": "Loboda Igor",
+  "scripts": {
+    "start": "parcel ./src/index.html -p 3000",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "2.8.0"
+  }
+}
